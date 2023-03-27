@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__watcher_block_invoke_3:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[thisClass findNodeByPath:path]">
+            </PersistentString>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;%s&quot;, path]">
+            </PersistentString>
+            <PersistentString
+               value = "NSLog(@&quot;%@&quot;, [thisClass getChildrenOfZk:zhandle path:path depth:-1])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__watcher_block_invoke.60:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController onConnect:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkAddNodeViewController onConfirm:]:ZkAddNodeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self parentViewController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkDataCompletionInfo setStat:]:ZkDataCompletionInfo.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "malloc(sizeof(struct Stat))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController nodeForIndexPath:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController resetNodeValue:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__34-[ZkViewController onClickSubmit:]_block_invoke:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController onClickCell:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NSView didChangeValueForKey:]:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "string_completition:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((char *)data)">
+            </PersistentString>
+            <PersistentString
+               value = "[[[NSString alloc] initWithFormat:@&quot;%s&quot;, &quot;sss&quot;] UTF8String]">
+            </PersistentString>
+            <PersistentString
+               value = "strings-&gt;data[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController getChildrenOfZk:path:depth:]:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[str substringFromIndex:1]">
+            </PersistentString>
+            <PersistentString
+               value = "test">
+            </PersistentString>
+            <PersistentString
+               value = "nodeInfo.path[i]">
+            </PersistentString>
+            <PersistentString
+               value = "strcmp(&quot;/&quot;, &quot;/&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "[test rangeOfString:@&quot;/&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController findNodeByPath:]:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "node[@&quot;name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController initWithCoder:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController prepareForSegue:sender:]:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[controller contentViewController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "data_completition:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "process_completions:zookeeper.c">
+      </ContextState>
+      <ContextState
+         contextName = "strings_completition:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((__bridge NodeInfo *)data)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__data_completition_block_invoke:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController refreshStat:]:ZkViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController onClickRefresh:]:ZkViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.treeController arrangedObjects]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "deserialize_response:zookeeper.c">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZkViewController onClickRemoveNode:]:ZkViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
